@@ -1,0 +1,47 @@
+div{
+    display: inline-block;
+        border: 1px solid black;
+        height: 360px;
+        width: 650px;
+        margin-right: 20px;
+        text-align: center;
+        line-height: 100px;
+}
+
+img{
+    height: 350px;
+    cursor:grab;
+}
+
+form{
+    position: absolute;
+    top: 15%;
+    left: 65%;
+    background-color: white;
+    width: 450px;
+    padding: 0px 75px;
+    border-radius: 5px;
+    }
+
+    body{
+        width: 100vw;
+        height: 100vh;
+        background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU3wXgMwpoIxEuEEKBUt5oE_RUZehGyIBARg&usqp=CAU");
+        background-size: 100% 100%;
+        }
+
+        h1 , h4{
+            color: beige;
+        }
+
+
+        #button{
+            display: block;
+            border-radius: 20px;
+            background-color: #ec7920;
+            border:rgb(0, 255, 221);
+            color: rgb(0, 255, 38);
+            padding: 15px 20px;
+            margin: 40px auto;
+            cursor: pointer;
+        }
